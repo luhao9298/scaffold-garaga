@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/69e2c428-768d-48b1-88a9-19eac8c5e00d)![image](https://github.com/user-attachments/assets/0d2a601d-16b7-4e66-86ac-588afa72044a)
+![image](https://github.com/user-attachments/assets/b026ee21-2161-436a-998f-6bb3af987059)
+
+
 # Scaffold Garaga app
 
 This is a Noir+Garaga+Starknet starter with in-browser proving and a step-by-step guide how to:
