@@ -1,0 +1,14 @@
+{
+  "alpha-sepolia": {
+    "js": {
+      "address": "0x03D319DD8dfC500daF821ca95271adecF6f5e0ff1ee622dE4ad7e54dD1F587e2",
+      "public_key": "0x07702095d0148d3062d517ed28721bcda5d63c5e9180b9420ae39708ef100c90",
+      "private_key": "0x057f07044505536a8d7803b69763a6a86f339c0a866aec9b5dfd073048c52454",
+      "class_hash": "0x036078334509b514626504edc9fb252328d1a240e4e948bef8d0c08dff45927f",
+      "deployed": true,
+      "legacy": false,
+      "salt": "0x123",
+      "type": "argent"
+    }
+  }
+}
